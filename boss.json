@@ -1,0 +1,9 @@
+{
+	"name": "Repositório de Arquivos para NFSe",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {}
+}
