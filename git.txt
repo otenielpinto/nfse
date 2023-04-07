@@ -1,0 +1,13 @@
+echo "# nfse" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:otenielpinto/nfse.git
+git push -u origin main
+
+
+--para excluir arquivos em lote
+
+git rm -f schemas/*.xsd
+
